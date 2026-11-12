@@ -77,7 +77,7 @@ Premier run de référence : **5 000 tweets d'entraînement**, 2 000 de validati
 | MLP (TF-IDF) | 0.493 | 0.524 | 0.462 | 0.399 |
 | CNN 1D (Kim) | 0.461 | 0.289 | 0.443 | 0.348 |
 
-![Comparaison des modèles](assets/model_comparison.png)
+![Comparaison des modèles](sentiment-lab/assets/model_comparison.png)
 ![Courbes d'apprentissage](assets/learning_curves.png)
 
 ### Analyse
