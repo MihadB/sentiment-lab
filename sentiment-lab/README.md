@@ -2,7 +2,7 @@
 
 Classification de tweets en **négatif / neutre / positif**, en comparant trois approches avec exactement le même protocole d'évaluation.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VOTRE_PSEUDO/sentiment-lab/blob/main/notebooks/Sentiment_Lab_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MihadB/sentiment-lab/blob/main/notebooks/Sentiment_Lab_Colab.ipynb)
 
 <!-- Ajoute ici une capture d'écran de l'interface : ![Interface](assets/interface.png) -->
 
@@ -29,7 +29,7 @@ Données : [`cardiffnlp/tweet_eval`](https://huggingface.co/datasets/cardiffnlp/
 ## 💻 Installation locale
 
 ```bash
-git clone https://github.com/VOTRE_PSEUDO/sentiment-lab.git
+git clone https://github.com/MihadB/sentiment-lab.git
 cd sentiment-lab
 python -m venv .venv && source .venv/bin/activate    # Windows : .venv\Scripts\activate
 pip install -r requirements.txt
