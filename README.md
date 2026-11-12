@@ -78,7 +78,7 @@ Premier run de référence : **5 000 tweets d'entraînement**, 2 000 de validati
 | CNN 1D (Kim) | 0.461 | 0.289 | 0.443 | 0.348 |
 
 ![Comparaison des modèles](sentiment-lab/assets/model_comparison.png)
-![Courbes d'apprentissage](assets/learning_curves.png)
+![Courbes d'apprentissage](sentiment-lab/assets/learning_curves.png)
 
 ### Analyse
 
